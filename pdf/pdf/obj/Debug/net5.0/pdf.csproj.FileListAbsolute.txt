@@ -1,0 +1,92 @@
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\appsettings.Development.json
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\appsettings.json
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\pdf.exe
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\pdf.deps.json
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\pdf.runtimeconfig.json
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\pdf.runtimeconfig.dev.json
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\pdf.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\pdf.pdb
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.csproj.AssemblyReference.cache
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.GeneratedMSBuildEditorConfig.editorconfig
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.AssemblyInfoInputs.cache
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.AssemblyInfo.cs
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.csproj.CoreCompileInputs.cache
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.MvcApplicationPartsAssemblyInfo.cs
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.MvcApplicationPartsAssemblyInfo.cache
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\scopedcss\bundle\pdf.styles.css
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\staticwebassets\pdf.StaticWebAssets.Manifest.cache
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\staticwebassets\pdf.StaticWebAssets.Pack.cache
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\staticwebassets\msbuild.pdf.Microsoft.AspNetCore.StaticWebAssets.props
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\staticwebassets\msbuild.build.pdf.props
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.pdf.props
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.pdf.props
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.RazorTargetAssemblyInfo.cache
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.csproj.CopyComplete
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.dll
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\refint\pdf.dll
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.pdb
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\pdf.genruntimeconfig.cache
+D:\program files\vs19\repo\pdf\pdf\obj\Debug\net5.0\ref\pdf.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\itext.barcodes.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\itext.forms.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\itext.io.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\itext.kernel.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\itext.layout.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\itext.pdfa.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\itext.sign.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\itext.styledxmlparser.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\itext.svg.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\itext.commons.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\itext.html2pdf.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\program files\vs19\repo\pdf\pdf\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\appsettings.Development.json
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\appsettings.json
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\pdf.exe
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\pdf.deps.json
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\pdf.runtimeconfig.json
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\pdf.runtimeconfig.dev.json
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\pdf.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\pdf.pdb
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itext.barcodes.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itext.forms.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itext.io.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itext.kernel.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itext.layout.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itext.pdfa.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itext.sign.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itext.styledxmlparser.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itext.svg.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itext.commons.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itext.html2pdf.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.csproj.AssemblyReference.cache
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.GeneratedMSBuildEditorConfig.editorconfig
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.AssemblyInfoInputs.cache
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.AssemblyInfo.cs
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.csproj.CoreCompileInputs.cache
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.MvcApplicationPartsAssemblyInfo.cs
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.MvcApplicationPartsAssemblyInfo.cache
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\scopedcss\bundle\pdf.styles.css
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\staticwebassets\pdf.StaticWebAssets.Manifest.cache
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.RazorTargetAssemblyInfo.cache
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.csproj.CopyComplete
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.dll
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\refint\pdf.dll
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.pdb
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\pdf.genruntimeconfig.cache
+D:\TestProject\pdf\pdf\obj\Debug\net5.0\ref\pdf.dll
+D:\TestProject\pdf\pdf\bin\Debug\net5.0\itextsharp.dll
